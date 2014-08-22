@@ -1,18 +1,18 @@
 {
-  "name": "foundation5-datepicker",
+  "name": "jdm-foundation5-datepicker",
   "version": "0.0.3",
-  "homepage": "https://github.com/wpjunior/foundation-datepicker",
+  "homepage": "https://github.com/jaydm/foundation5-datepicker",
   "authors": [
-    "Wilson Júnior <wilsonpjunior@gmail.com>"
+    "Jay D. McHugh <jaydmchugh@gmail.com>"
   ],
   "description": "bootstrap-datepicker clone for foundation 5",
   "main": "js/foundation-datepicker.js",
   "keywords": [
     "datepicker",
-    "foundation"
+    "foundation5"
   ],
   "private": false,
-  "license": "MIT",
+  "license": "apache2",
   "ignore": [
     "**/.*",
     "node_modules",
